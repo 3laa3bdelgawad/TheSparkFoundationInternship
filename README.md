@@ -19,7 +19,7 @@ make more profit.<br>
 <a href="https://github.com/3laa3bdelgawad/TheSparksFoundationInternship/blob/main/Task1_Exploratory%20Data%20Analysis%20-%20Retail/SampleSuperstore.csv">Dataset.csv</a><br>
 <br><br>
 > Solution:
-<a href="[https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Exploratory%20Data%20Analysis%20-%20Retail.ipyn](https://github.com/3laa3bdelgawad/TheSparksFoundationInternship/blob/main/Task1_Exploratory%20Data%20Analysis%20-%20Retail/Task1%20-%20Exploratory%20Data%20Analysis%20-%20Retail.ipynb)"> Exploratory Data Analysis-Retail</a>
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Exploratory%20Data%20Analysis%20-%20Retail.ipyn](https://github.com/3laa3bdelgawad/TheSparksFoundationInternship/blob/main/Task1_Exploratory%20Data%20Analysis%20-%20Retail/Task1%20-%20Exploratory%20Data%20Analysis%20-%20Retail.ipynb"> Exploratory Data Analysis-Retail</a>
 
 
 
@@ -36,12 +36,14 @@ make more profit.<br>
 - As a sports analysts, find out the most successful teams, players and factors<br>
 -contributing win or loss of a team.<br>
 - Suggest teams or players a company should endorse for its products.<br>
-- You can choose any of the tool of your choice
-(Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
-- Here is the dataset :
-<a href="https://bit.ly/34SRn3b">Dataset.csv</a><br>
+
+
+- Here is the datasets :
+<a href="https://bit.ly/34SRn3b](https://github.com/3laa3bdelgawad/TheSparksFoundationInternship/blob/main/Task2_Exploratory%20Data%20Analysis%20-%20Sports/deliveries.csv)">Dataset1.csv</a><br>
+<a href="https://bit.ly/34SRn3b](https://github.com/3laa3bdelgawad/TheSparksFoundationInternship/blob/main/Task2_Exploratory%20Data%20Analysis%20-%20Sports/matches.csv)">Dataset2.csv</a><br>
+
 > Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Sports/Exploratory%20Data%20Analysis%20-%20Sports.ipynb">Exploratory Data Analysis - Sports</a>
+<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Sports/Exploratory%20Data%20Analysis%20-%20Sports.ipynb](https://github.com/3laa3bdelgawad/TheSparksFoundationInternship/blob/main/Task2_Exploratory%20Data%20Analysis%20-%20Sports/Task2%20-%20Exploratory%20Data%20Analysis%20-%20Sports.ipynb)https://github.com/3laa3bdelgawad/TheSparksFoundationInternship/blob/main/Task2_Exploratory%20Data%20Analysis%20-%20Sports/Task2%20-%20Exploratory%20Data%20Analysis%20-%20Sports.ipynb">Exploratory Data Analysis - Sports</a>
 
 
 

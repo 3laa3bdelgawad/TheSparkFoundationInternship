@@ -19,7 +19,7 @@ make more profit.<br>
 <a href="https://github.com/3laa3bdelgawad/TheSparksFoundationInternship/blob/main/Task1_Exploratory%20Data%20Analysis%20-%20Retail/SampleSuperstore.csv">Dataset.csv</a><br>
 <br><br>
 > Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Exploratory%20Data%20Analysis%20-%20Retail.ipyn](https://github.com/3laa3bdelgawad/TheSparksFoundationInternship/blob/main/Task1_Exploratory%20Data%20Analysis%20-%20Retail/Task1%20-%20Exploratory%20Data%20Analysis%20-%20Retail.ipynb"> Exploratory Data Analysis-Retail</a>
+<a href="https://github.com/3laa3bdelgawad/TheSparksFoundationInternship/blob/main/Task1_Exploratory%20Data%20Analysis%20-%20Retail/Task1%20-%20Exploratory%20Data%20Analysis%20-%20Retail.ipynb"> Exploratory Data Analysis-Retail</a>
 
 
 
@@ -43,7 +43,7 @@ make more profit.<br>
 <a href="https://bit.ly/34SRn3b](https://github.com/3laa3bdelgawad/TheSparksFoundationInternship/blob/main/Task2_Exploratory%20Data%20Analysis%20-%20Sports/matches.csv)">Dataset2.csv</a><br>
 
 > Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Sports/Exploratory%20Data%20Analysis%20-%20Sports.ipynb](https://github.com/3laa3bdelgawad/TheSparksFoundationInternship/blob/main/Task2_Exploratory%20Data%20Analysis%20-%20Sports/Task2%20-%20Exploratory%20Data%20Analysis%20-%20Sports.ipynb)https://github.com/3laa3bdelgawad/TheSparksFoundationInternship/blob/main/Task2_Exploratory%20Data%20Analysis%20-%20Sports/Task2%20-%20Exploratory%20Data%20Analysis%20-%20Sports.ipynb">Exploratory Data Analysis - Sports</a>
+<a href="https://github.com/3laa3bdelgawad/TheSparksFoundationInternship/blob/main/Task2_Exploratory%20Data%20Analysis%20-%20Sports/Task2%20-%20Exploratory%20Data%20Analysis%20-%20Sports.ipynb">Exploratory Data Analysis - Sports</a>
 
 
 

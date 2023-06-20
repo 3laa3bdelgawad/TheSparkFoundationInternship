@@ -16,7 +16,8 @@ make more profit.<br>
 - What all business problems you can derive by exploring the data?<br>
 
 - Here is the dataset :
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Retail(Dataset).csv">Dataset.csv</a><br><br><br>
+<a href="https://github.com/3laa3bdelgawad/TheSparksFoundationInternship/blob/main/Task1_Exploratory%20Data%20Analysis%20-%20Retail/SampleSuperstore.csv">Dataset.csv</a><br>
+<br><br>
 > Solution:
 <a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Exploratory%20Data%20Analysis%20-%20Retail.ipynb"> Exploratory Data Analysis-Retail</a>
 

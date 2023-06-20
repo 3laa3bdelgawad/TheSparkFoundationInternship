@@ -38,9 +38,9 @@ make more profit.<br>
 - Suggest teams or players a company should endorse for its products.<br>
 
 
-- Here is the datasets :
-<a href="https://bit.ly/34SRn3b](https://github.com/3laa3bdelgawad/TheSparksFoundationInternship/blob/main/Task2_Exploratory%20Data%20Analysis%20-%20Sports/deliveries.csv)">Dataset1.csv</a><br>
-<a href="https://bit.ly/34SRn3b](https://github.com/3laa3bdelgawad/TheSparksFoundationInternship/blob/main/Task2_Exploratory%20Data%20Analysis%20-%20Sports/matches.csv)">Dataset2.csv</a><br>
+- Here are the datasets :
+<a href="https://github.com/3laa3bdelgawad/TheSparksFoundationInternship/blob/main/Task2_Exploratory%20Data%20Analysis%20-%20Sports/deliveries.csv">Dataset1.csv</a><br>
+<a href="https://github.com/3laa3bdelgawad/TheSparksFoundationInternship/blob/main/Task2_Exploratory%20Data%20Analysis%20-%20Sports/matches.csv">Dataset2.csv</a><br>
 
 > Solution:
 <a href="https://github.com/3laa3bdelgawad/TheSparksFoundationInternship/blob/main/Task2_Exploratory%20Data%20Analysis%20-%20Sports/Task2%20-%20Exploratory%20Data%20Analysis%20-%20Sports.ipynb">Exploratory Data Analysis - Sports</a>
